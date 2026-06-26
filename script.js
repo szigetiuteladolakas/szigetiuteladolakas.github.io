@@ -2,7 +2,7 @@ const englishCopy = {
   navGallery: "Gallery",
   navContact: "Contact",
   eyebrow: "Pécs • Egyetemváros",
-  heroTitle: "A bright, modern apartment in one of Pécs's convenient neighbourhoods",
+  heroTitle: "A bright, modern apartment in one of Pécs's convenient residential areas",
   viewPhotos: "View photos",
   emailUs: "Send email",
   contactLabel: "Owner",

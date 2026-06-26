@@ -8,7 +8,7 @@ const englishCopy = {
   contactLabel: "Owner",
   detailsEyebrow: "Overview",
   descriptionTitle: "Short apartment description",
-  descriptionOne: `For sale: a bright ground-floor brick apartment built in 2019, located in the University District of Pécs, with private garden area and a designated parking space in the inner courtyard.
+  descriptionOne: `For sale: a bright ground-floor brick apartment built in 2019, located in the University District of Pécs, with private garden area and a designated parking space in the inner courtyard for 70 000 000 HUF.
 
 The apartment has a total floor area of 45 m² and consists of an entrance hall, a living room, a separate bedroom, a kitchen, and a bathroom with toilet. The property is in very good condition, having been continuously maintained, with several aesthetic and comfort upgrades carried out in recent years.
 
